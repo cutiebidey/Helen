@@ -1,0 +1,36 @@
+body{ 
+	box-sizing: 500px;
+	font-family: Arial, Helvetica, Sans-sarif;
+	color: #333;
+	text-align: left;
+
+
+}
+
+.box{
+	width:400px;
+	border: 2px solid grey;
+}
+
+img{
+	width:95%;
+	margin-left:10px;
+}
+
+.italics {
+font-style: italic;
+padding-bottom: 0px;
+border-style: r
+}
+
+.list ul{
+	list-style: none;
+	text-decoration: none;
+	padding-left: 0px
+
+}
+
+.small p{
+	font-size: small;
+	padding:0px;
+}
